@@ -1,4 +1,5 @@
-diffusers>=0.11.0
+# diffusers>=0.11.0 <-- This is original, I changed it because it works anyway and I need it for another library
+diffusers>=0.10.0
 transformers>=4.25.1
 scipy
 ftfy
